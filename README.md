@@ -1,6 +1,4 @@
 # Open Bionic Arm
-by Seweryn Malczewski
-
 ## Description
 Open source project of automated bionic arm, created by me. It contains schematics of muscle activity detectors, motherboards with controllers, 3D models (and) designs of arm/hand construction and the software.
 
