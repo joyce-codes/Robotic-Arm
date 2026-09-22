@@ -22,6 +22,7 @@ def csv_write_row(m_tab):
 				tab = tab + ";" + str(x)
 		writer.writerow({'vals': tab, 'state': current_state})
 
+
 data_electrodes_num = 0
 data_amplitude = [ ]
 data_deltatime = [ ]
