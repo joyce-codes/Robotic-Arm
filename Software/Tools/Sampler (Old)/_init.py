@@ -9,7 +9,6 @@ from dataclasses import dataclass
 # 0xaa - start sending data
 # 0xab - stop sending data
 #
-
 # Frame:
 # id;value;dtime\n
 #
