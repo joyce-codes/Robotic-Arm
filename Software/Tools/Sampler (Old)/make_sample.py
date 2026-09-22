@@ -10,7 +10,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 from pyts.image import GramianAngularField
 
-
 def csv_write_row(m_tab):
 	with open('train.csv', mode='a+') as csv_file:
 		fieldnames = ['vals', 'state']
