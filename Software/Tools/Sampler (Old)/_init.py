@@ -3,7 +3,6 @@ import serial.tools.list_ports
 import time
 from dataclasses import dataclass
 
-
 # commands
 # 0xa0 - OK
 # 0xa1 - ERROR
