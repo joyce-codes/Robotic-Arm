@@ -12,7 +12,6 @@ from dataclasses import dataclass
 # Frame:
 # id;value;dtime\n
 #
-
 @dataclass
 class protocol:
     electrode_id : int
