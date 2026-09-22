@@ -13,7 +13,6 @@ from dataclasses import dataclass
 # id;value;dtime\n
 #
 
-
 @dataclass
 class protocol:
     electrode_id : int
