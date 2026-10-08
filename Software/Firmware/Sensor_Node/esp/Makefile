@@ -5,6 +5,7 @@
 
 
 
+
 PROJECT_NAME := sensor-node
 
 include $(IDF_PATH)/make/project.mk
