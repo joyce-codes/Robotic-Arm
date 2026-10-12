@@ -7,4 +7,3 @@ project(sensor-node)
 
 
 
-
