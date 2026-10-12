@@ -8,4 +8,3 @@ project(sensor-node)
 
 
 
-
